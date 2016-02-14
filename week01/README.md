@@ -13,7 +13,7 @@ Sample problems:
 
 +   CE - Compilation Error
 
-    CodeForces 340 Div 2 A: `CE-cf340_div2_A.cpp`
+    CodeForces 340 Div 2 A: [`CE-cf340_div2_A.cpp`](CE-cf340_div2_A.cpp)
 +   WA - Wrong Answer
 
     CodeForces 340 Div 2 A: `WA-cf340_div2_A.cpp`
