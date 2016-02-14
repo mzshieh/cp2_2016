@@ -1,3 +1,6 @@
+### Develop environment
+The instructor recommends [Cloud 9](https://c9.io/).
+
 ### I/O processing templates
 
 +	[`eof_fgets.cpp`](eof_fgets.cpp) for line-based input terminated by End-Of-File
