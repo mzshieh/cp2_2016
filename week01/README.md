@@ -16,25 +16,25 @@ Sample problems:
     CodeForces 340 Div 2 A: [`CE-cf340_div2_A.cpp`](CE-cf340_div2_A.cpp)
 +   WA - Wrong Answer
 
-    CodeForces 340 Div 2 A: `WA-cf340_div2_A.cpp`
+    CodeForces 340 Div 2 A: [`WA-cf340_div2_A.cpp`](WA-cf340_div2_A.cpp)
 +   RE - Rumtime Error
 
-    CodeForces 319 Div 2 A: `RE-cf319_div2_A.c`
+    CodeForces 319 Div 2 A: [`RE-cf319_div2_A.c`](RE-cf319_div2_A.c)
 +   TLE - Time Limit Exceeded
 
-    CodeForces 319 Div 2 A: `TLE-cf319_div2_A.c`
+    CodeForces 319 Div 2 A: [`TLE-cf319_div2_A.c`](TLE-cf319_div2_A.c)
     
-    CodeForces 340 Div 2 B: `TLE-cf340_div2_B.cpp`
+    CodeForces 340 Div 2 B: [`TLE-cf340_div2_B.cpp`](TLE-cf340_div2_B.cpp)
 +   MLE - Memory Limit Exceeded
 
-    CodeForces 319 Div 2 A: `MLE-cf319_div2_A.c`
+    CodeForces 319 Div 2 A: [`MLE-cf319_div2_A.c`](MLE-cf319_div2_A.c)
 +   AC - Accepted
 
-    CodeForces 319 Div 2 A: `AC-cf319_div2_A.c`
+    CodeForces 319 Div 2 A: [`AC-cf319_div2_A.c`](AC-cf319_div2_A.c)
     
-    CodeForces 340 Div 2 A: `AC-cf340_div2_A.cpp`
+    CodeForces 340 Div 2 A: [`AC-cf340_div2_A.cpp`](AC-cf340_div2_A.cpp)
     
-    CodeForces 340 Div 2 B: `AC-cf340_div2_B.cpp`
+    CodeForces 340 Div 2 B: [`AC-cf340_div2_B.cpp`](AC-cf340_div2_B.cpp)
 
 ### Program Assignment (Due: 23:59:59, Mar 1, 2016)
 Please do not register this course if you cannot accomplish following five problems.
