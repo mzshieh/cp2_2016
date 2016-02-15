@@ -39,7 +39,7 @@ Sample problems:
     
     CodeForces 340 Div 2 B: [`AC-cf340_div2_B.cpp`](AC-cf340_div2_B.cpp)
 
-### Program Assignment (Due: 23:59:59, Mar 1, 2016)
+### Programming Assignment (Due: 23:59:59, Mar 1, 2016)
 Please do not register this course if you cannot accomplish following five problems.
 
 +   Problem A: [NCTU OJ 10040](https://oj.nctu.me/groups/2/problems/10040/)
