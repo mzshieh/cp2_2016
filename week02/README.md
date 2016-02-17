@@ -1,4 +1,17 @@
-### Programming Assignment (Due: 23:59:59, Mar 12, 2016)
+## Basic data structures and STL
+
++   Array
++   List
++   `string`
++   `queue`
++   Stack
++   `vector`
++   `sort()`
++   `priority_queue`
++   `set`
++   `map`
+
+### Programming assignment (Due: 23:59:59, Mar 12, 2016)
 
 +   Problem A: [UVa 514](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=455)
 +   Problem B: [NCTU OJ 10032](https://oj.nctu.me/groups/1/problems/10032/) [(Problem description)](week02-B.pdf)
