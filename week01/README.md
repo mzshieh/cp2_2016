@@ -40,7 +40,11 @@ The programming assignments are selected from the first 3 of the following onlin
 +   [UVa](https://uva.onlinejudge.org/)
 +   [CodeForces](http://codeforces.com/)
 +   [NCTU OJ](https://oj.nctu.me/)
-    +   After sing in, click global, select group, click orange enter button. 
+    +   In order to read the problem statements, you should perform following steps.
+        1. Sign in.
+        2. Click "Global" near the upper-right corner.
+        3. Select group.
+        4. Click the orange enter button.
 +   [PKU](http://poj.org/)
 +   [AtCoder](http://atcoder.jp/)
 +   [HDOJ](http://acm.hdu.edu.cn/)
