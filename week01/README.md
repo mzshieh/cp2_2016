@@ -41,7 +41,6 @@ The programming assignments are selected from the first 3 of the following onlin
 +   [CodeForces](http://codeforces.com/)
 +   [NCTU OJ](https://oj.nctu.me/)
     +   After sing in, click global, select group, click orange enter button. 
-
 +   [PKU](http://poj.org/)
 +   [AtCoder](http://atcoder.jp/)
 +   [HDOJ](http://acm.hdu.edu.cn/)
