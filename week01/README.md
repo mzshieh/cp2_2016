@@ -20,6 +20,7 @@ Programming Contest (NCPC) and International Colligiate Programming Contest
     +   `java Main`
         +   `-Xmx=1024m`: set the maximum heap memory
         +   `-Xss=8m`: set the maximum stack memory
+    +   Use `time` to measure the execution time.
 +   I/O redirection
     +   Input: `<`
     +   Output: `>`

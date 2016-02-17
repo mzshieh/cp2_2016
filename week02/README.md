@@ -17,3 +17,7 @@
 +   Problem B: [NCTU OJ 10032](https://oj.nctu.me/groups/1/problems/10032/) [(Problem description)](week02-B.pdf)
 +   Problem C: [NCTU OJ 10024](https://oj.nctu.me/groups/1/problems/10024/) [(Problem description)](week02-C.pdf)
 +   Problem D: [NCTU OJ 10025](https://oj.nctu.me/groups/1/problems/10025/) [(Problem description)](week02-D.pdf)
+
+### Reference
+
++   [C++ reference](http://www.cplusplus.com/reference/) 
