@@ -1,3 +1,5 @@
+## Lecture 1: Introduction
+
 ### Develop environment
 The instructor recommends [Cloud 9](https://c9.io/). National Colligiate
 Programming Contest (NCPC) and International Colligiate Programming Contest 
@@ -29,6 +31,15 @@ Programming Contest (NCPC) and International Colligiate Programming Contest
 +	[`eof_fgets.cpp`](eof_fgets.cpp) for line-based input terminated by End-Of-File
 +	[`eof_scanf.cpp`](eof_scanf.cpp) for token-based input terminated by End-Of-File
 +	[`token_on_a_line.cpp`](token_on_a_line.cpp) for variable numbers of tokens on a line
+
+### Online judge systems
+
++   [UVa](https://uva.onlinejudge.org/)
++   [CodeForces](http://codeforces.com/)
++   [PKU](http://poj.org/)
++   [AtCoder](http://atcoder.jp/)
++   [HDOJ](http://acm.hdu.edu.cn/)
++   [NCTU OJ](https://oj.nctu.me/)
 
 ### Judge responses
 
