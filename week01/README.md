@@ -40,7 +40,7 @@ The programming assignments are selected from the first 3 of the following onlin
 +   [UVa](https://uva.onlinejudge.org/)
 +   [CodeForces](http://codeforces.com/)
 +   [NCTU OJ](https://oj.nctu.me/)
-    +   In order to read the problem statements, you should perform following steps.
+    +   In order to read the problem statements, you should perform the following steps.
         1. Sign in.
         2. Click "Global" near the upper-right corner.
         3. Select group.
