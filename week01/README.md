@@ -1,6 +1,27 @@
 ### Develop environment
 The instructor recommends [Cloud 9](https://c9.io/).
 
+### Terminal
+
++   Compile
+    +   GNU Compiler Collection (`gcc` for C and `g++` for C++)
+        +   `-o`: set output
+            +   Without `-o`, the default output is `a.out`
+        +   `-O2`: optimization
+        +   `-std=c11`: use C11
+        +   `-std=c++11`: use C++11
+    +   Java: `javac` Main.java
++   Execution
+    +   `./a.out`
+    +   `java Main`
+        +   `-Xmx=1024m`: set the maximum heap memory
+        +   `-Xss=8m`: set the maximum stack memory
++   I/O redirection
+    +   Input: `<`
+    +   Output: `>`
+    +   Error: `2>`
+    +   Example: `./a.out < the.in > the.out 2> the.err`
+
 ### I/O processing templates
 
 +	[`eof_fgets.cpp`](eof_fgets.cpp) for line-based input terminated by End-Of-File
