@@ -1,5 +1,7 @@
 ### Develop environment
-The instructor recommends [Cloud 9](https://c9.io/).
+The instructor recommends [Cloud 9](https://c9.io/). National Colligiate
+Programming Contest (NCPC) and International Colligiate Programming Contest 
+(ICPC) usually provide GNU/Linux.
 
 ### Terminal
 
