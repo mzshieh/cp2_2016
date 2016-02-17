@@ -35,13 +35,16 @@ Programming Contest (NCPC) and International Colligiate Programming Contest
 
 ### Online judge systems
 
+The programming assignments are selected from the first 3 of the following online judge systems
+
 +   [UVa](https://uva.onlinejudge.org/)
 +   [CodeForces](http://codeforces.com/)
++   [NCTU OJ](https://oj.nctu.me/)
+    +   After sing in, click global, select group, click orange enter button. 
+
 +   [PKU](http://poj.org/)
 +   [AtCoder](http://atcoder.jp/)
 +   [HDOJ](http://acm.hdu.edu.cn/)
-+   [NCTU OJ](https://oj.nctu.me/)
-    +   After sing in, click global, select group, click orange enter button. 
 
 ### Judge responses
 
