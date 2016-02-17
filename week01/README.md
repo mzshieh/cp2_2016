@@ -41,6 +41,7 @@ Programming Contest (NCPC) and International Colligiate Programming Contest
 +   [AtCoder](http://atcoder.jp/)
 +   [HDOJ](http://acm.hdu.edu.cn/)
 +   [NCTU OJ](https://oj.nctu.me/)
+    +   After sing in, click global, select group, click orange enter button. 
 
 ### Judge responses
 
