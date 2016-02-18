@@ -20,12 +20,18 @@ Programming Contest (NCPC) and International Colligiate Programming Contest
     +   `java Main`
         +   `-Xmx=1024m`: set the maximum heap memory
         +   `-Xss=8m`: set the maximum stack memory
-    +   Use `time` to measure the execution time.
 +   I/O redirection
     +   Input: `<`
     +   Output: `>`
     +   Error: `2>`
     +   Example: `./a.out < the.in > the.out 2> the.err`
++   Execution time measurenment
+    +   Use `time`
+    +   Example: `time ./a.out < the.in > the.out`
+        +   Runs `a.out`
+        +   Use `the.in` as the input
+        +   `the.out` stores the output
+        +   The terminal displays the error messages and execution time.
 
 ### I/O processing templates
 
