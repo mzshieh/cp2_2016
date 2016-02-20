@@ -16,7 +16,7 @@ The following containers are frequently used in programming contest.
 +   [`set`](http://www.cplusplus.com/reference/set/set)
     +   [`unordered_set`](http://www.cplusplus.com/reference/unordered_set/unordered_set) (C++11)
 +   [`map`](http://www.cplusplus.com/reference/map/map)
-    +   [`unordered_map`](http://www.cplusplus.com/reference/unordered_map/unordered_map)) (C++11)
+    +   [`unordered_map`](http://www.cplusplus.com/reference/unordered_map/unordered_map) (C++11)
 
 ### STL algorithms
 
