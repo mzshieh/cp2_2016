@@ -5,6 +5,7 @@
 
 ### STL containers
 
+The following containers are frequently used in programming contest.
 +   [`vector`](http://www.cplusplus.com/reference/vector/vector/)
     +   [`vector<bool>`](http://www.cplusplus.com/reference/vector/vector-bool/)
 +   [`list`](http://www.cplusplus.com/reference/list/list/)
@@ -15,14 +16,15 @@
 +   [`set`](http://www.cplusplus.com/reference/set/set)
     +   [`unordered_set`](http://www.cplusplus.com/reference/unordered_set/unordered_set) (C++11)
 +   [`map`](http://www.cplusplus.com/reference/map/map)
-    +   [`unordered_map`]((http://www.cplusplus.com/reference/unordered_map/unordered_map)) (C++11)
+    +   [`unordered_map`](http://www.cplusplus.com/reference/unordered_map/unordered_map)) (C++11)
 
 ### STL algorithms
 
-+   `sort()`
-+   `lower_bound()`
-+   `upper_bound()`
-+   `next_permutation()`
+The following algorithms are frequently used in programming contest.
++   [`sort()`](http://www.cplusplus.com/reference/algorithm/sort/)
++   [`lower_bound()`](http://www.cplusplus.com/reference/algorithm/lower_bound/)
++   [`upper_bound()`](http://www.cplusplus.com/reference/algorithm/upper_bound/)
++   [`next_permutation()`](http://www.cplusplus.com/reference/algorithm/next_permutation/)
 
 ### Programming assignment (Due: 23:59:59, Mar 12, 2016)
 
