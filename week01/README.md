@@ -50,7 +50,7 @@ The programming assignments are selected from the first 3 of the following onlin
         1. Sign in.
         2. Click "Global" near the upper-right corner.
         3. Select group.
-        4. Click the orange enter button.
+        4. Click the orange enter button to register PCCA group.
 +   [PKU](http://poj.org/)
 +   [AtCoder](http://atcoder.jp/)
 +   [HDOJ](http://acm.hdu.edu.cn/)
@@ -95,3 +95,10 @@ Please do not register this course if you cannot accomplish following five probl
 +   Problem C: [NCTU OJ 10042](https://oj.nctu.me/groups/2/problems/10042/)
 +   Problem D: [NCTU OJ 10043](https://oj.nctu.me/groups/2/problems/10043/)
 +   Problem E: [NCTU OJ 10044](https://oj.nctu.me/groups/2/problems/10044/)
+
+Remark: In order to read the problem statements, you should perform the following steps.
+
+1. Sign in.
+2. Click "Global" near the upper-right corner.
+3. Select group.
+4. Click the orange enter button to register PCCA group.
