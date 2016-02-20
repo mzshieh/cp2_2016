@@ -1,15 +1,28 @@
 ## Basic data structures and STL
 
-+   Array
-+   List
-+   `string`
-+   `queue`
-+   Stack
-+   `vector`
++   [Slides](lec02.pdf)
++   [Reference](http://www.cplusplus.com/reference/)
+
+### STL containers
+
++   [`vector`](http://www.cplusplus.com/reference/vector/vector/)
+    +   [`vector<bool>`](http://www.cplusplus.com/reference/vector/vector-bool/)
++   [`list`](http://www.cplusplus.com/reference/list/list/)
++   [`queue`](http://www.cplusplus.com/reference/queue/queue/)
++   [`stack`](http://www.cplusplus.com/reference/stack/stack/)
+    +   In programming contest, `stack` is usually slower than `vector`.
++   [`priority_queue`](http://www.cplusplus.com/reference/queue/priority_queue/)
++   [`set`](http://www.cplusplus.com/reference/set/set)
+    +   [`unordered_set`](http://www.cplusplus.com/reference/unordered_set/unordered_set) (C++11)
++   [`map`](http://www.cplusplus.com/reference/map/map)
+    +   [`unordered_map`]((http://www.cplusplus.com/reference/unordered_map/unordered_map)) (C++11)
+
+### STL algorithms
+
 +   `sort()`
-+   `priority_queue`
-+   `set`
-+   `map`
++   `lower_bound()`
++   `upper_bound()`
++   `next_permutation()`
 
 ### Programming assignment (Due: 23:59:59, Mar 12, 2016)
 
@@ -17,7 +30,3 @@
 +   Problem B: [NCTU OJ 10032](https://oj.nctu.me/groups/1/problems/10032/) [(Problem description)](week02-B.pdf)
 +   Problem C: [NCTU OJ 10024](https://oj.nctu.me/groups/1/problems/10024/) [(Problem description)](week02-C.pdf)
 +   Problem D: [NCTU OJ 10025](https://oj.nctu.me/groups/1/problems/10025/) [(Problem description)](week02-D.pdf)
-
-### Reference
-
-+   [C++ reference](http://www.cplusplus.com/reference/) 
