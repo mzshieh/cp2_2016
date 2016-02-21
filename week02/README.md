@@ -2,6 +2,10 @@
 
 +   [Slides](lec02.pdf)
 +   [Reference](http://www.cplusplus.com/reference/)
++   Suppliments
+    +   [Binary heaps](PSPT_lec02_complexity.pdf)
+    +   [Josephus problem](PSPT_lec03_joseph.pdf)
+    +   [C strings](PSPT_lec06_cstring.pdf)
 
 ### STL containers
 
