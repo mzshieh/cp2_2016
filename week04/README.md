@@ -15,8 +15,6 @@
 
 +   See the [slide](PSPT_lec10_dnc_ps.pdf)
 
-### Skyline problem
-
 ### Quicksort
 
 +   See the [old slide 2](ItoA_lec03_dnc.pdf)
