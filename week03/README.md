@@ -2,14 +2,17 @@
 
 ### Iterative enumeration
 
++   Sample problem: [UVa 725](https://uva.onlinejudge.org/external/7/725.pdf)
+
 ### Recursive enumeration
 
++   Sample problem: [UVa 11742](https://uva.onlinejudge.org/external/117/11742.pdf)
 +   [Enumerating all permutations](perm.c)
 
 ### Backtracking
 
 +   Enumerating all permutations such that odd numbers must be placed at positions of odd indices
-    +   Use [`next_permutation`](odd_next_perm.cpp)
+    +   Use [`next_permutation`](odd_next_perm.cpp) (Slower)
     +   Use [backtracking](odd_backtrack.cpp)
 
 ### Bit set
@@ -19,7 +22,7 @@
 ### Avoid repeating
 
 +   All possible pairing
-    +   [Repeating](slow_pair.cpp)
+    +   [Repeating](slow_pair.cpp) (Slower)
     +   [Non-repeating](fast_pair.cpp)
 
 ### Programming assignment (Due: 23:59:59, Mar 26, 2016)
