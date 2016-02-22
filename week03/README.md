@@ -8,6 +8,10 @@
 
 ### Backtracking
 
++   Enumerating all permutations such that odd numbers must be placed at positions of odd indices
+    +   Use [`next_permutation`](odd_next_perm.cpp)
+    +   Use [backtracking](odd_backtrack.cpp)
+
 ### Bit set
 
 +   [Enumerating all combination](comb.cpp)
