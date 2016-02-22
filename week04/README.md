@@ -25,11 +25,11 @@
 
 ### Binary search
 
-+   See the [Slide](PSPT_lec10_dnc_ps.pdf)
++   See the [slide](PSPT_lec10_dnc_ps.pdf)
 
 ### Ternary search
 
-+   See the [Slide](PSPT_lec10_dnc_ps.pdf)
++   See the [slide](PSPT_lec10_dnc_ps.pdf)
 
 ### Exponentiation by squaring
 
@@ -46,3 +46,7 @@
 +   Problem C: [NCTU OJ 10006](https://oj.nctu.me/groups/1/problems/10009/)
 +   Problem D: [2015-2016 Samara SAU ACM ICPC Quarterfinal Qualification Contest](http://codeforces.com/gym/100812/problem/L)
 +   Problem E: [Problem 4, PTC August 2015](http://140.116.249.152/e-Tutor/mod/programming/view.php?a=12508)
+
+### Halim's collection
+
+You may find more problems [here](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=660).
