@@ -14,6 +14,10 @@
 
 ### Avoid repeating
 
++   All possible pairing
+    +   [Repeating](slow_pair.cpp)
+    +   [Non-repeating](fast_pair.cpp)
+
 ### Programming assignment (Due: 23:59:59, Mar 26, 2016)
 
 +   Problem A: [UVa 11342](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2317)
