@@ -10,6 +10,7 @@
 ### STL containers
 
 The following containers are frequently used in programming contest.
++   [`pair`](http://www.cplusplus.com/reference/utility/pair/)
 +   [`vector`](http://www.cplusplus.com/reference/vector/vector/)
     +   [`vector<bool>`](http://www.cplusplus.com/reference/vector/vector-bool/)
 +   [`list`](http://www.cplusplus.com/reference/list/list/)
