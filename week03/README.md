@@ -20,4 +20,4 @@
 
 ### Halim's collection
 
-You may find a lot of problems [here](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=639).
+You may find more problems [here](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=639).
