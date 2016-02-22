@@ -4,6 +4,8 @@
 
 ### Recursive enumeration
 
++   [Enumerating all permutations](perm.c)
+
 ### Backtracking
 
 ### Bit set
