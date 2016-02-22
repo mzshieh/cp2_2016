@@ -1,5 +1,8 @@
 ## Complete search
 
++   Suppliments
+    +   [Old slide](PSPT_lec09_enumeration.pdf)
+
 ### Iterative enumeration
 
 +   Sample problem: [UVa 725](https://uva.onlinejudge.org/external/7/725.pdf)
