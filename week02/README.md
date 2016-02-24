@@ -19,8 +19,10 @@ The following containers are frequently used in programming contest.
     +   In programming contest, `stack` is usually slower than `vector`.
 +   [`priority_queue`](http://www.cplusplus.com/reference/queue/priority_queue/)
 +   [`set`](http://www.cplusplus.com/reference/set/set)
+    +   Example: [iterating over a `set`](set-iter.c++11.cpp) (C++11)
     +   [`unordered_set`](http://www.cplusplus.com/reference/unordered_set/unordered_set) (C++11)
 +   [`map`](http://www.cplusplus.com/reference/map/map)
+    +   Example: [iterating over a `map`](map-iter.c++11.cpp) (C++11)
     +   [`unordered_map`](http://www.cplusplus.com/reference/unordered_map/unordered_map) (C++11)
 
 ### STL algorithms
