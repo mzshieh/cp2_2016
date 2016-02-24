@@ -17,5 +17,5 @@ int main()
     for(auto it = s.rbegin(); it != s.rend(); it++)
         printf("%d\n",*it);
 
-	return 0;
+    return 0;
 }

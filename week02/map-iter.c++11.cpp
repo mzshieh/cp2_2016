@@ -17,5 +17,5 @@ int main()
     for(auto it = mapping.rbegin(); it != mapping.rend(); it++)
         printf("%d %d\n",it->first,it->second);
 
-	return 0;
+    return 0;
 }
