@@ -11,6 +11,7 @@
 ### Recursive enumeration
 
 +   Sample problem: [UVa 11742](https://uva.onlinejudge.org/external/117/11742.pdf)
+    +   [Alternative code using `next_permutation`](AC-uva11742-next_permutation.cpp)
 +   [Enumerating all permutations](perm.c)
 
 ### Backtracking
