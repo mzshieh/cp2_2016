@@ -6,6 +6,7 @@
 ### Iterative enumeration
 
 +   Sample problem: [UVa 725](https://uva.onlinejudge.org/external/7/725.pdf)
+    +   [Sample code](AC-uva725.cpp)
 
 ### Recursive enumeration
 
