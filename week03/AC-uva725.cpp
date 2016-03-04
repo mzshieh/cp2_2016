@@ -25,7 +25,11 @@ int main()
         is_first=false;
         for(int i = 1234; i <= 98765; i++)
         {
-            if(is_ok(i,n)) printf("%05d / %05d = %d\n",i*n,i,n), cnt++;
+            if(is_ok(i,n))
+            {
+                printf("%05d / %05d = %d\n",i*n,i,n);
+                cnt++;
+            }
         }
         if(cnt==0) printf("There are no solutions for %d.\n",n);
     }
