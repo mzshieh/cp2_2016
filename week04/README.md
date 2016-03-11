@@ -1,6 +1,7 @@
 ## Divide and conquer
 
 +   [Slide](PSPT_lec10_dnc_ps.pdf)
++   [New Slide](lec04.pdf)
 +   Suppliments
     +   [Old slide 1](ItoA_lec02_intro.pdf)
     +   [Old slide 2](ItoA_lec03_dnc.pdf)
@@ -33,11 +34,19 @@
 
 ### Exponentiation by squaring
 
++   See the [new slide](lec04.pdf)
+
 ### Greatest common divisor
+
++   See the [new slide](lec04.pdf)
 
 ### Extended Euclidean algorithm
 
++   See the [new slide](lec04.pdf)
+
 ### Multiplicative inverse
+
++   See the [new slide](lec04.pdf)
 
 ### Programming assignment (Due: 23:59:59, Apr 9, 2016)
 
