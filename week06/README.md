@@ -1,10 +1,16 @@
-## Greedy
+## Sorting and Greedy Algorithms
 
 +   [Old slide](ItoA_lec06_sorting.pdf)
 
 ### Sorting in linear time
 
 +   [Old slide](ItoA_lec06_sorting.pdf)
+   
+### Sample problems
+
++   [CodeForces 551C](http://codeforces.com/problemset/problem/551/C)
++   [CodeForces 557C](http://codeforces.com/problemset/problem/557/C)
++   [CodeForces 549G](http://codeforces.com/problemset/problem/549/G)
 
 ### Programming assignment (Due: 23:59:59, Apr 16, 2016)
 
