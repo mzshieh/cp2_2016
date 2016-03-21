@@ -1,7 +1,6 @@
 ## Review on Previous Lectures
 
 +   [Slide](lec05.pdf)
-+   [Old slide](ItoA_lec_sorting.pdf)
 
 ### Master theorem
 
@@ -12,10 +11,6 @@
 +   [Input](flood.in.txt)
 +   [`queue`](flood_queue.cpp)
 +   [`recursive`](flood_rec.cpp)
-
-### Sorting in linear time 
-
-+   [Old slide](ItoA_lec_sorting.pdf)
 
 ### Skyline problem
 
