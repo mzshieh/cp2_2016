@@ -20,6 +20,12 @@
 +   [CodeForces 557C](http://codeforces.com/problemset/problem/557/C)
 +   [CodeForces 549G](http://codeforces.com/problemset/problem/549/G)
 
+### Greedy does not work
+
++   Coin exchange
++   0/1 Knapsack problem
++   Stick cutting
+
 ### Programming assignment (Due: 23:59:59, Apr 16, 2016)
 
 +   Problem A: [2015-2016 Samara SAU ACM ICPC Quarterfinal Qualification Contest J](http://codeforces.com/gym/100812/problem/J)
