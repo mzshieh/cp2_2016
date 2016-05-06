@@ -36,7 +36,7 @@
 
 ### Tree Diameter
 
-### Programming assignment (Due: 23:59:59, Jun 3, 2016)
+### Programming assignment (Due: 23:59:59, Jun 4, 2016)
 
 +   Problem A: [UVa 280](https://uva.onlinejudge.org/external/2/280.pdf)
 +   Problem B: [NCTU OJ 10057](https://oj.nctu.me/groups/2/problems/10057/)
