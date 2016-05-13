@@ -2,7 +2,7 @@
 
 +   [Old Slide 1](PSPT_lec14_bfs_dfs.pdf)
 +   [Old Slide 2](PSPT_lec15_bfs_dfs_application.pdf)
-+   +   Some examples are wrong.
+    +   Some examples are wrong.
 +   [Old Slide 3](DS_lec06_disjoint_sets.pdf)
 
 ### Representation
